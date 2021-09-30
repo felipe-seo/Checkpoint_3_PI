@@ -4,7 +4,6 @@ Checkpoint 3 - Programação imperativa
 Basta executar(node ./script.js )
 
                     Enunciado do exercício:
-
 Crie uma variável produtos, que contenha um array de objetos, com no
 mínimo 3 itens. Dentro da variável, liste produtos disponíveis, informando os
 seguintes detalhes: Nome do Produto, Valor do Produto, Qualidade do
